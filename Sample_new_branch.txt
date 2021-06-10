@@ -1,1 +1,3 @@
 This is a new sample file in a new branch.
+
+This line has been added from the rebase branch into a file which was earlier created in the new branch and then merged with master branch.
