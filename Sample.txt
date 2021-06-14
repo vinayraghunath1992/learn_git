@@ -1,2 +1,4 @@
 This is a sample file.THIS LINE HAS ALSO BEEN EDITED.
 This has been updated again to view git show command.
+
+Modifying to study rebase function.
